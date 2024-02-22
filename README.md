@@ -1,8 +1,8 @@
 ### Hi there 👋
 📫 How to reach me: yigitbicakci@yahoo.com
-🔭 I’m currently working on: Game Dev with pygame
-🤔 I’m looking for help with: Game Art and SFX
-🌱 I’m currently learning: Game Dev
+🔭 I’m currently working on: nothing
+🤔 I’m looking for help with: /
+🌱 I’m currently learning: /
 
 
 <!--
