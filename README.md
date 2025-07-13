@@ -1,6 +1,6 @@
 ### Hi there 👋
-📫 How to reach me: yigitbicakci@yahoo.com
-🔭 I’m currently working on: nothing
+📫 How to reach me: bicakci42@yahoo.com
+🔭 I’m currently working on: AI/ML Models
 🤔 I’m looking for help with: /
 🌱 I’m currently learning: /
 
